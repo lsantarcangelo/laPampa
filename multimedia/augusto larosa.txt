@@ -1,0 +1,48 @@
+- iconos de insta en el menu principal que lleven a cada categoria
+- seccion novedades o destacados en pag ppal
+- pagina productos dividida por tipo de bicicletas
+
+Questions for your web design client questionnaire
+Answer the following questions in as much detail as possible during your conversation with your client:
+
+1.Tell us about your company.
+	Client/business name
+	Mailing address
+	Phone number(s)
+	Email address
+
+2.What specific services does your company provide?
+
+3.What sets your company apart from your competition?
+
+4.Who is your target client?
+
+5.Do you currently have a website?
+
+6.What keywords will your audience use to find your website?
+
+7.What do you like about your website?
+
+8.Why do you want a new website?
+
+9.What features will your website need?
+
+10.What similar websites do you like and what is it you like about them?
+
+11.Who will provide content for the new website?
+
+12.Does your company have established branding?
+
+13.Do you need a new URL?
+
+14.Do you need hosting?
+
+15.Will the old site be moved to a new location?
+
+16.What is the deadline for the website?
+
+17.What is the budget for the website?
+
+18.Do you want us to handle maintenance?
+
+19.Would you like us to handle content marketing?

@@ -1,0 +1,222 @@
+/* GENERAL */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+html {
+    font-size: 62.5%; 
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    background-color: black;
+}
+.menu{
+    padding-bottom: 5px;
+}
+.menu nav{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+}
+.nav-link{
+    font-size: 1.1rem;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px gray;
+}
+.panelFooter{
+    color: white;
+    font-size: 1.2rem;
+    line-height: 2.5rem;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 17%;
+}
+.logoFooter{
+    width: 15px;
+    height: 15px;
+    margin-right: 8px;
+}
+.logoFooter2{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+}
+div.col-sm-3.d-none.d-sm-block{
+    padding-top: 4px;
+    justify-items: center;
+}
+
+/* ------INDEX------ */
+.cardMain{
+    margin: 20px 10px;
+}
+.cardItem{
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+}
+img.card-img-top.circular{
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px #888888;
+}
+.tituloCard{
+    background-color: black;
+    font-size: 1.2rem;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    width: 70%;
+    height: 20px;
+    padding-top: 3px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+.contieneBoton{
+    margin-top: 10px;
+    width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contieneBoton h3{
+    text-shadow: 1px 1px gray;
+    box-shadow: 3px 3px 10px #888888;
+}
+
+/* ------PRODUCTOS------ */
+.tituloPpal{
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    height: 35px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+}
+.tituloPpal h1{
+    font-size: 1.2rem;
+    text-shadow: 1px 1px gray;
+}
+#prodBicicletas, #prodAccesorios{
+    margin-bottom: 5px;
+    width: 80%;
+}
+#prodBicicletas h2{
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    text-shadow: 1px 1px gray;
+    text-align: center;
+    padding-top: 10px;
+    height: 40px;
+    background-color: lightgray;
+}
+#prodBicicletas .tituloCard{
+    background-color: black;
+    font-size: 1.2rem;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 1px 1px gray;
+    margin-top: 5px;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+.carousel-inner{
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px #888888;
+}
+#prodAccesorios h2{
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    text-shadow: 1px 1px gray;
+    text-align: center;
+    padding-top: 10px;
+    height: 40px;
+    background-color: lightgray;
+}
+#prodAccesorios .tituloCard{
+    background-color: black;
+    font-size: 1.2rem;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 1px 1px gray;
+    margin-top: 5px;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+
+/* TALLER */
+
+#reparaciones{
+    margin-bottom: 30px;
+}
+
+#reparaciones img{
+    width: 305px;
+    padding-bottom: 7.5px;
+}
+
+.tituloCard2{
+    background-color: black;
+    font-size: 1.2rem;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    width: 70%;
+    height: 20px;
+    padding-top: 3px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    text-shadow: 1px 1px gray;
+    box-shadow: 3px 3px 10px #888888;
+}
+
+.detalleReparaciones{
+    text-shadow: 0.5px 0.2px gray;
+    text-transform: capitalize;
+    font-size: 1.1rem;
+    font-weight: bold;
+    width: 65%;
+    margin: 15px auto;
+}
+
+
+/* MEDIA QUERYS */
+/* DESDE 1024px */
+/* .contieneFooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    color: white;
+    font-size: 1.2rem;
+    background-color: black;
+}
+#parraFooter{
+    padding-top: 10px;
+}
+.contieneFooter .datosFooter{
+    padding: 0 20px 0;
+}
+.contieneFooter .logoFooter{
+    width: 15px;
+    height: 15px;
+    margin-right: 8px;
+} */
